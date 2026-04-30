@@ -46,5 +46,5 @@ Gmail → Make → AI → JSON Parser → Filter → Auto Reply → Google Sheet
 - Smart prioritization
 
 ## 👩‍💻 Contributors
-- Mehak Shaib  
+- Mehak Shahid
 - Ananya
